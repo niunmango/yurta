@@ -1,0 +1,32 @@
+# site settings
+title: Yurta
+subtitle: Patagonia y Mar
+email: yurtapatagoniaymar@hotmail.com
+description: Un lugar para relajarse cerca de Viedma.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: Ruta Provincial 1, km 14
+city: Viedma
+state: RN
+zip_code: 8500
+country: Argentina
+phone: (2920)555555
+
+# social settings
+500px_url:
+facebook_url:
+github_url: 
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

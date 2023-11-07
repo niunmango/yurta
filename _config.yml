@@ -3,7 +3,7 @@ title: Yurta
 subtitle: Patagonia y Mar
 email: yurtapatagoniaymar@hotmail.com
 description: Un lugar para relajarse cerca de Viedma.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/yurta" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: Ruta Provincial 1, km 14
